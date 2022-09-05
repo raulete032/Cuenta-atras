@@ -1,0 +1,34 @@
+html, body{
+    width: 100%;
+    height: 100%;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#formularioFecha{
+    margin-top: 15px;
+    margin-left: 30px;
+}
+
+#formularioFecha input{
+    margin-bottom: 10px;
+}
+
+#oferton{
+    margin-top: 15px;
+    margin-left: 30px;
+}
+
+#oferton div{
+    background-color: darkblue;
+    color: white;
+    width: 5%;
+    display: inline-block;
+    text-align: center;
+}
+
